@@ -1,14 +1,14 @@
 # M.A.R.C.H.E.
 
-- M Massive bleeding control
+- M : Massive bleeding control
 
-- A Airway
+- A : Airway
 
-- R Respiration
+- R : Respiration
 
-- C Choc
+- C : Choc
 
-- H Head/Hypothermia
+- H : Head/Hypothermia
 
-- E Evacuate
+- E : Evacuate
 
