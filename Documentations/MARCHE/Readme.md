@@ -13,16 +13,23 @@
 - E : Evacuate
 
 Massive hemorrhage control (tourniquets and hemostatic dressings)
+
 Airway management (including surgical cricothyroidotomy for TACMED medics)
+
 Respiratory management (occlusive dressings for open pneumothoraces and needle decompression for tension pneumothoraces)
+
 Circulation (BIFT)
   Bleeding control
   Intravenous/intraosseous access
   Fluid resuscitation (HSD as a volume expander)
   Tourniquet assessment and removal
+
 Hypothermia
+
 Head injury
+
 Eye injury
+
 Everything else (M-PHAAT-D)
   Monitoring
   Pain
