@@ -20,10 +20,10 @@ Respiratory management (occlusive dressings for open pneumothoraces and needle d
 
 Circulation (BIFT)
 
-  Bleeding control
-  Intravenous/intraosseous access
-  Fluid resuscitation (HSD as a volume expander)
-  Tourniquet assessment and removal
+- Bleeding control
+- Intravenous/intraosseous access
+- Fluid resuscitation (HSD as a volume expander)
+- Tourniquet assessment and removal
 
 Hypothermia
 
@@ -33,12 +33,12 @@ Eye injury
 
 Everything else (M-PHAAT-D)
 
-  Monitoring
-  Pain
-  Head to toe
-  Address all wounds
-  Antibiotics
-  Tactical evacuation preparation
-  Documentation of care
+- Monitoring
+- Pain
+- Head to toe
+- Address all wounds
+- Antibiotics
+- Tactical evacuation preparation
+- Documentation of care
   
 HSD = hypertonic saline/dextran; TACMED = tactical medicine
