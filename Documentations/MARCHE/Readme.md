@@ -19,6 +19,7 @@ Airway management (including surgical cricothyroidotomy for TACMED medics)
 Respiratory management (occlusive dressings for open pneumothoraces and needle decompression for tension pneumothoraces)
 
 Circulation (BIFT)
+
   Bleeding control
   Intravenous/intraosseous access
   Fluid resuscitation (HSD as a volume expander)
@@ -31,6 +32,7 @@ Head injury
 Eye injury
 
 Everything else (M-PHAAT-D)
+
   Monitoring
   Pain
   Head to toe
@@ -38,4 +40,5 @@ Everything else (M-PHAAT-D)
   Antibiotics
   Tactical evacuation preparation
   Documentation of care
+  
 HSD = hypertonic saline/dextran; TACMED = tactical medicine
