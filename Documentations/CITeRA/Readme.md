@@ -1,6 +1,22 @@
 # Centre d’instruction aux techniques de réanimation de l’avant (CITeRA)
 
-Fiches mémento :
+
+
+## M.A.R.C.H.E.
+
+- M : Massive bleeding control
+
+- A : Airway
+
+- R : Respiration
+
+- C : Choc
+
+- H : Head/Hypothermia
+
+- E : Evacuate
+
+## Fiches mémento :
 
 - 00 SAFE-ABC & MARCHE-RYAN.pdf
 - 01 M Mise en place d'un garrot de membre.pdf
