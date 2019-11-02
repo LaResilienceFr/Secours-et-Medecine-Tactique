@@ -1,5 +1,6 @@
 # Centre d’instruction aux techniques de réanimation de l’avant (CITeRA)
 
+Fiches mémento :
 
 - 00 SAFE-ABC & MARCHE-RYAN.pdf
 - 01 M Mise en place d'un garrot de membre.pdf
@@ -10,6 +11,6 @@
 - 05 H l'Hypothermie .pdf
 - 06 E FICHE MÉDICALE DE L’AVANT.pdf
 - 06 E MEDEVAC 9-Liner.pdf
-- RollerPack.pdf
-- Utilisation des attelles Sam Splint.pdf
-- Votre équipement.pdf
+- 07 RollerPack.pdf
+- 08 Utilisation des attelles Sam Splint.pdf
+- 09 Votre équipement.pdf
