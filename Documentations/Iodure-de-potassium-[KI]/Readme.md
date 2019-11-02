@@ -1,1 +1,1 @@
-# Iodure-de-potassium-[KI]
+# Iodure de potassium (KI)
